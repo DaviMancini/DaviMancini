@@ -16,3 +16,7 @@ Olá! Meu nome é Davi Mancini
   <a href = "mailto:davimancinis@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/DaviManciniFaustinoDaSilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybnlyMHA1eHllMjBtMWxxYm12bzR6eXVzZWRhM3NzNWlmbGdsd2k2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3wr2cnwlghNomDeN9W/giphy.gif" alt="GIF" />
+</p>
